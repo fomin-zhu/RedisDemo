@@ -1,0 +1,17 @@
+D:\RedisDemo\WebApp\bin\WebApp.dll.config
+D:\RedisDemo\WebApp\bin\WebApp.dll
+D:\RedisDemo\WebApp\bin\WebApp.pdb
+D:\RedisDemo\WebApp\bin\DbBase.Redis.dll
+D:\RedisDemo\WebApp\bin\ServiceStack.Interfaces.dll
+D:\RedisDemo\WebApp\bin\ServiceStack.Redis.dll
+D:\RedisDemo\WebApp\bin\ServiceStack.Text.dll
+D:\RedisDemo\WebApp\bin\ServiceStack.Common.dll
+D:\RedisDemo\WebApp\bin\DbBase.Redis.pdb
+D:\RedisDemo\WebApp\bin\ServiceStack.Redis.xml
+D:\RedisDemo\WebApp\bin\ServiceStack.Text.xml
+D:\RedisDemo\WebApp\bin\ServiceStack.Common.xml
+D:\RedisDemo\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+D:\RedisDemo\WebApp\obj\Debug\WebApp.dll
+D:\RedisDemo\WebApp\obj\Debug\WebApp.pdb
+D:\RedisDemo\WebApp\bin\BaseModel.dll
+D:\RedisDemo\WebApp\bin\BaseModel.pdb

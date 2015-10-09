@@ -1,0 +1,12 @@
+D:\RedisDemo\DbBase.Redis\bin\Debug\DbBase.Redis.dll
+D:\RedisDemo\DbBase.Redis\bin\Debug\DbBase.Redis.pdb
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Common.dll
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Interfaces.dll
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Redis.dll
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Text.dll
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Common.xml
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Redis.xml
+D:\RedisDemo\DbBase.Redis\bin\Debug\ServiceStack.Text.xml
+D:\RedisDemo\DbBase.Redis\obj\Debug\DbBase.Redis.dll
+D:\RedisDemo\DbBase.Redis\obj\Debug\DbBase.Redis.pdb
+D:\RedisDemo\DbBase.Redis\bin\Debug\DbBase.Redis.dll.config

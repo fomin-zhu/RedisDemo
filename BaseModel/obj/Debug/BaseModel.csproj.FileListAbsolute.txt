@@ -1,0 +1,4 @@
+D:\RedisDemo\BaseModel\bin\Debug\BaseModel.dll
+D:\RedisDemo\BaseModel\bin\Debug\BaseModel.pdb
+D:\RedisDemo\BaseModel\obj\Debug\BaseModel.dll
+D:\RedisDemo\BaseModel\obj\Debug\BaseModel.pdb

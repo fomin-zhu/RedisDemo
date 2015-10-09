@@ -25,6 +25,7 @@
             <br />
             <asp:Label ID="Label4" runat="server" Text="部门："></asp:Label><asp:TextBox ID="txtScreenPosition" runat="server" Width="100px"></asp:TextBox>
             <asp:Button ID="btnSearch" runat="server" Text="查询数据" OnClick="btnSearch_Click" />
+
         </div>
     </form>
 </body>

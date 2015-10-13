@@ -12,9 +12,9 @@
         <div>
             <asp:Label ID="lblShow" runat="server" Text=""></asp:Label>
             <asp:Button ID="btnOpenDB" runat="server" Text="打开Redis" OnClick="btnOpenDB_Click" />&nbsp;&nbsp;
-        <br />
+            <br />
             <asp:Button ID="btnSetValue" runat="server" Text="显示全部" OnClick="btnSetValue_Click" />&nbsp;&nbsp;
-    <asp:Label ID="lblPeople" runat="server" Text=""></asp:Label>
+            <asp:Label ID="lblPeople" runat="server" Text=""></asp:Label>
             <br />
             <asp:Label ID="Label1" runat="server" Text="姓名："></asp:Label><asp:TextBox ID="txtName" runat="server" Width="100px"></asp:TextBox>
             <asp:Label ID="Label2" runat="server" Text="部门："></asp:Label><asp:TextBox ID="txtPosition" runat="server" Width="100px"></asp:TextBox>
